@@ -15,7 +15,8 @@ Using the following Kaggle dataset as a base:
 - Amazon Top 50 Bestselling Books (https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 - GoodReads Books (https://www.kaggle.com/jealousleopard/goodreadsbooks)
 - Movies Metadata (https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
--  Netflix Shows (https://www.kaggle.com/shivamb/netflix-shows)
+- Netflix Shows (https://www.kaggle.com/shivamb/netflix-shows)
+
 Using the following websites to scrape data from:
 - Movie Budgets and Gross (https://www.the-numbers.com/)
 - Wikepedia List of Bestselling books and Revenue (https://en.wikipedia.org/wiki/List_of_best-selling_books)
@@ -27,3 +28,4 @@ Using the following websites to scrape data from:
 
 ## Load:
 - Create a sqlite file which would be hosted in a bucket in GCP to ensure all members have access to the latest file.
+
