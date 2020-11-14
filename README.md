@@ -26,4 +26,4 @@ Using the following websites to scrape data from:
 - Using Jellyfish library to match book titles to movie titles and acts as a composite key.
 
 ## Load:
-- Create a sqlite file which would be would be hosted in a bucket in GCP to ensure all members have access to the latest file.
+- Create a sqlite file which would be hosted in a bucket in GCP to ensure all members have access to the latest file.
